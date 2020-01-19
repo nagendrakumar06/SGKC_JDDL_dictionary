@@ -1,2 +1,2 @@
 # SGKC_JDDL_dictionary
-It contains matlab code to learn the SGKC JDDL dictionary.
+The Matlab code for learning the SGKC JDDL dictionary will be uploaded in the next few days.
